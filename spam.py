@@ -1,6 +1,6 @@
 # ~ OPEN SOURCE ~ 
-# CODED BY FADIL YAZID
-# FB : FADIL ID
+# CODED BY FR13NDS
+# wa : 085770555837
 import os
 import sys
 import time
@@ -10,7 +10,7 @@ def mulai():
     print
     print('\t\x1b[1;92m       [ \x1b[1;97mSPAM SMS MAPCLUB \x1b[1;92m]\x1b[1;97m')
     print('\t       <~~~~~~~~~~~~~~~~~~>')
-    print('\t       Author : Fadil ID')
+    print('\t       PEMILIK : FR13NDS')
     print
     print ('( Ex : 0822*** )')
     Nomor = raw_input('Nomor Target : \x1b[1;92m')
@@ -31,7 +31,7 @@ def mulai():
     Jumlah = input('Jumlah : \x1b[1;92m')
     if Jumlah > 15:
         print
-        print('\x1b[1;97m[\x1b[1;91m !\x1b[1;97m ] Jangan terlalu banyak \nKalo Ga Mau Tools Ini Coid :v')
+        print('\x1b[1;97m[\x1b[1;91m !\x1b[1;97m ] Jangan terlalu banyak \nKalo Ga Mau SC Tools Ini Coid :v')
         print
         sys.exit()
     
