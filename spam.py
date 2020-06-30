@@ -1,6 +1,6 @@
 # ~ OPEN SOURCE ~ 
-# CODED BY FADIL YAZID
-# FB : FADIL ID
+# CODED BY FR13NDS
+# FB : Andini amubia
 import os
 import sys
 import time
@@ -10,7 +10,7 @@ def mulai():
     print
     print('\t\x1b[1;92m       [ \x1b[1;97mSPAM SMS MAPCLUB \x1b[1;92m]\x1b[1;97m')
     print('\t       <~~~~~~~~~~~~~~~~~~>')
-    print('\t       Author : Fadil ID')
+    print('\t       Author : FR13NDS')
     print
     print ('( Ex : 0822*** )')
     Nomor = raw_input('Nomor Target : \x1b[1;92m')
