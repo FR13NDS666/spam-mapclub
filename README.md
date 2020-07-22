@@ -4,7 +4,7 @@
 $ pkg install python2
 $ pip2 install requests
 $ pkg install git
-$ git clone https://github.com/Fadil-ID/spam-mapclub
+$ https://github.com/FR13NDS666/spam-mapclub
 $ cd spam-mapclub
 $ python2 spam.py
 ```
